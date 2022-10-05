@@ -1,7 +1,6 @@
 # Urban Sounds Classification
 
-Preprocessing spectograms and creating dataset.
-
+Preprocessing spectrograms and creating dataset.
 Building CNN model and training.
 
 <a href="https://urbansounddataset.weebly.com/urbansound8k.html"> UrbanSounds8K Dataset </a>
